@@ -1,0 +1,4 @@
+**/bin/
+*.o
+data-logs/
+inj-scripts/
